@@ -1,7 +1,0 @@
-{
-  "name": "Portail de Gestion Diversifia",
-  "description": "Outil complet de simulation de commissions et gestion logistique Orange Maroc.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
